@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+@reboot /home/pi/bin/led-strips/bin/reboot.sh
